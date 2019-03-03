@@ -1,1 +1,1 @@
-# Machine Learning projects as a beginner
+# Notes and exercises
